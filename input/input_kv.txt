@@ -1,0 +1,2 @@
+input for this task
+this test will certainly succeed
